@@ -1,7 +1,7 @@
 [![Masterhead](https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif)]
-<h1 align="center">Hi 👋, I'm Chetan Sakhala</h1>
+<h1 align="centre">Hi 👋, I'm Chetan Sakhala</h1>
 <h3 align="center">A passionate Full-Stack Developer in India</h3>
-<img align="centre" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetan6675&label=Profile%20views&color=0e75b6&style=flat" alt="chetan6675" /> </p>
 
