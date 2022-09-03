@@ -1,4 +1,4 @@
-[![Masterhead](https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif)]
+[![Masterhead](https://miro.medium.com/proxy/1*OF0xEMkWBv-69zvmNs6RDQ.gif)]
 <h1 align="centre">Hi 👋, I'm Chetan Sakhala</h1>
 <h3 align="center">A passionate Full-Stack Developer in India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
